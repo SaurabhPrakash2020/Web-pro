@@ -30,7 +30,7 @@ pipeline {
                             application: 'app-1',
                             deploymentGroup: 'app-1',
                             region: 'ap-south-1',
-                            credentialsId: 'f148cac3-4398-437c-b6a7-7463b1104f30'
+                            credentialsId: '6097658f-822f-4e90-90ff-54e6a802dd7e'
                         )
                         echo 'AWS CodeDeploy deployment successful.'
                     } catch (Exception e) {
