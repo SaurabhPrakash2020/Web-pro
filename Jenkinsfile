@@ -14,7 +14,7 @@ pipeline {
                     application: 'app-1',
                     deploymentGroup: 'app-1',
                     region: 'ap-south-1',
-                    credentialsId: 'f148cac3-4398-437c-b6a7-7463b1104f30'
+                    credentialsId: '720f4417-b86e-46fa-bb3d-1e2a977427d2'
                 )
             }
         }
